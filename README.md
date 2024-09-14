@@ -1,6 +1,6 @@
 # ChartingApplication
 
-**ChartingApplication** is a simple chat application built using Java Swing, AWT, and socket programming. It enables real-time messaging between a server and  clients.
+ChartingApplication is a simple chat application built using Java Swing, AWT, and socket programming. It enables real-time messaging between a server and  clients.
 
 ## Features
 
@@ -40,15 +40,15 @@ java Client
 
 
 
-Usage:
+#Usage:
 
 Launch the server first, followed by multiple client instances.
 Type messages in the client window, and they will be sent to the server.
 The server distributes the messages to all connected clients.
 
 
-Images:
-Chart in between Server and Client
+#Images:
+Charting in between Server and Client
 
 ![image](https://github.com/user-attachments/assets/902603c4-7cc2-49de-9a45-5094512555ea)
 
